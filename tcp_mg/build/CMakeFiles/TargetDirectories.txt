@@ -1,0 +1,3 @@
+/home/crta/aaron_zavrsni/tcp_mg/build/CMakeFiles/tcp_mg_tester.dir
+/home/crta/aaron_zavrsni/tcp_mg/build/CMakeFiles/edit_cache.dir
+/home/crta/aaron_zavrsni/tcp_mg/build/CMakeFiles/rebuild_cache.dir

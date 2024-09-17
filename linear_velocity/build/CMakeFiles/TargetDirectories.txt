@@ -1,0 +1,3 @@
+/home/crta/aaron_zavrsni/linear_velocity/build/CMakeFiles/linear_velocity.dir
+/home/crta/aaron_zavrsni/linear_velocity/build/CMakeFiles/edit_cache.dir
+/home/crta/aaron_zavrsni/linear_velocity/build/CMakeFiles/rebuild_cache.dir
